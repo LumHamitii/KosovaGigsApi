@@ -1,0 +1,6 @@
+@KosovaGigsApi_HostAddress = http://localhost:5001
+
+GET {{KosovaGigsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
