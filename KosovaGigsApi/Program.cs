@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.Globalization;
+
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 // Add services to the container.
@@ -47,7 +48,7 @@ builder.Services.AddAuthentication(options =>
 
     };
 });
-
+await RoleManagerUtil.CreateRoles(builder.Services.BuildServiceProvider());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

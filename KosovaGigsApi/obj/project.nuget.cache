@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ciKrUxsLP72NuE5ge45eSoTg4zulaVWcVdp+TvY7epmcDaQhgEwHWMzngi74+aXpy8oA+Ki+3pfNvr0QHLkufQ==",
+  "dgSpecHash": "3JVv37YdHmaYFBdJ7JrCbZy37Q3Nb/7JPBbNo+Jf9Ql8SuHp6Mosqxwhyzf5bsP4E1SMz4XkbghhbgLA8BOVdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lumha\\Desktop\\AutoMarketAPI\\KosovaGigsApi\\KosovaGigsApi.csproj",
+  "projectFilePath": "C:\\Users\\lumha\\Desktop\\KosovaGigsAPI\\KosovaGigsAPI\\KosovaGigsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lumha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lumha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

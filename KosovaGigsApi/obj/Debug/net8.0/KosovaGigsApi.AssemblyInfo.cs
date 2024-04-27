@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KosovaGigsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02417669707870362bd33e65932ea8638598096e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792feefa1761160074172acd5ae9147a02ed2b79")]
 [assembly: System.Reflection.AssemblyProductAttribute("KosovaGigsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KosovaGigsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5200,11 +5200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lumha\\Desktop\\AutoMarketAPI\\KosovaGigsApi\\KosovaGigsApi.csproj",
+      "projectUniqueName": "C:\\Users\\lumha\\Desktop\\KosovaGigsApi\\KosovaGigsApi\\KosovaGigsApi.csproj",
       "projectName": "KosovaGigsApi",
-      "projectPath": "C:\\Users\\lumha\\Desktop\\AutoMarketAPI\\KosovaGigsApi\\KosovaGigsApi.csproj",
+      "projectPath": "C:\\Users\\lumha\\Desktop\\KosovaGigsApi\\KosovaGigsApi\\KosovaGigsApi.csproj",
       "packagesPath": "C:\\Users\\lumha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lumha\\Desktop\\AutoMarketAPI\\KosovaGigsApi\\obj\\",
+      "outputPath": "C:\\Users\\lumha\\Desktop\\KosovaGigsApi\\KosovaGigsApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lumha\\AppData\\Roaming\\NuGet\\NuGet.Config",
